@@ -12,7 +12,7 @@ publications: 'author^=*Portmann'
 years: []
 
 teaser: >
-    More information coming soon
+    
 
 profile:
     name: Annette Portmann
